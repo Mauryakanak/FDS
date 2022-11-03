@@ -1,2 +1,1 @@
-# FDS
-FDS practical
+# Foundation_of_Data_Science
